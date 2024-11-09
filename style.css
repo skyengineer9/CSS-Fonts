@@ -1,0 +1,44 @@
+/* Set font family to Times New Roman for p1 */
+p.p1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Set font family to Arial for p2 */
+p.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Set font family to Lucida Sans for p3 */
+p.p3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Set the font style to normal for .normal */
+p.normal {
+  font-style: normal;
+}
+
+/* Set the font style to italic for .italic */
+p.italic {
+  font-style: italic;
+}
+
+/* Set the font style to oblique for .oblique */
+p.oblique {
+  font-style: oblique;
+}
+
+/* Set the font weight to bold for .bold */
+p.bold {
+  font-weight: bold;
+}
+
+/* Set the font variant to normal for .normal */
+p.normal {
+  font-variant: normal;
+}
+
+/* Set the font variant to small-caps for .small */
+p.small {
+  font-variant: small-caps;
+}
